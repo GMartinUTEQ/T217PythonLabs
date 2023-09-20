@@ -1,0 +1,1 @@
+print("{}[2J{}[;H".format(chr(27), chr(27)))
